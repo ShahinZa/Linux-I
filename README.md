@@ -1,3 +1,3 @@
-# Linux-I
-Linux I course slides
-St. Clair College Linux Couse
+# Linux I<br/>
+St. Clair College Linux Course.<br/>
+Linux I course slides in txt format.
